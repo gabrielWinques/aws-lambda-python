@@ -38,3 +38,8 @@ O projeto conta com testes automatizados para validar o funcionamento da funçã
 ## Deploy
 
 O deploy é realizado automaticamente via GitHub Actions sempre que há push na branch principal de desenvolvimento.
+
+## Autor
+
+Gabriel Chaves Winques
+Projeto desenvolvido como prática de backend com AWS, CI/CD e arquitetura serverless.
